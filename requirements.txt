@@ -1,0 +1,5 @@
+textblob
+tweepy
+pycountry
+wordcloud
+langdetect
